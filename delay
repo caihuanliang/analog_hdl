@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<stm32l>
+#define sitb 1;
+deleat(*time,sigle_dac);
+main(void)
+{
+	int i,s,time;
+	for(i=0;i<=100;i++)
+	{
+		s+=i;
+		if(s<=100)
+		continue;
+	}
+	pa0=~pa0;
+	time=i;
+	delaet(time);
+}
